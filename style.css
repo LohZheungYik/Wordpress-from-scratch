@@ -1,0 +1,25 @@
+body{
+    background-color: #e7e7e7;
+}
+
+.page-numbers{
+    padding: 5px;
+    border-radius: 2px;
+    background-color: gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.page-numbers:hover{
+    background-color: lightblue;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.current{
+    background-color: rgb(152, 244, 152);
+}
+
